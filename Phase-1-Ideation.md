@@ -5,4 +5,4 @@ Main Idea
 Target Users
 Key Features
 Expected Outcome
-Future Scope
+Future Scope 
