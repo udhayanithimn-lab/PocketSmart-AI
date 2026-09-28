@@ -1,6 +1,0 @@
-Functional Requirements
-Non-Functional Requirements
-Hardware Requirements
-Software Requirements
-User Requirements
-Project Constraints
