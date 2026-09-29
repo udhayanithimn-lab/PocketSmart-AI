@@ -1,1 +1,39 @@
-database-schema.md
+# PocketSmart AI Database Schema
+
+## Income Table
+
+| Field | Type |
+|---|---|
+| ID | Integer |
+| Amount | Float |
+| Source | String |
+| Date | Date |
+
+## Expense Table
+
+| Field | Type |
+|---|---|
+| ID | Integer |
+| Amount | Float |
+| Category | String |
+| Description | String |
+| Date | Date |
+
+## Budget Table
+
+| Field | Type |
+|---|---|
+| ID | Integer |
+| Amount | Float |
+| Month | String |
+
+## Transactions Table
+
+| Field | Type |
+|---|---|
+| ID | Integer |
+| Type | String |
+| Category | String |
+| Amount | Float |
+| Description | String |
+| Date | Date |
